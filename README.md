@@ -59,7 +59,7 @@ treeVizualizer.vizualize(ntree);
 ```
 Output
 
-    ├─ 1
+    ├─ 0
     │  ├─ 1
     │  │  ├─ 5
     │  │  │  └─ 15
