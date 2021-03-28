@@ -1,4 +1,4 @@
-package com.thewire.Treemodel;
+package com.thewire.treemodel;
 
 import com.thewire.treemodel.BTree;
 import com.thewire.treemodel.Tree;
